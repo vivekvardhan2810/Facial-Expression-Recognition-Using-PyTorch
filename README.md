@@ -4,7 +4,7 @@
 This project aims to develop a facial expression recognition system using PyTorch. The system classifies facial expressions into various categories using a convolutional neural network (CNN). The dataset for training and testing the model is sourced from Kaggle and includes multiple facial expressions.
 
 ## Dataset
-The dataset used for this project is available on Kaggle. It contains images of faces categorized by different expressions such as happy, sad, angry, surprised, etc. 
+The dataset used for this project is available on Kaggle. It contains images of faces  categorized by different expressions such as happy, sad, angry, surprised, etc. 
 
 Dataset URL: [Face Expression Recognition Dataset](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset)
 
